@@ -1,1 +1,1 @@
-A site to try html and git.
+A site to test html and git functions.
