@@ -1,6 +1,5 @@
 # Default ignored files
-/shelf/
-/workspace.xml
-/discord.xml
+/.idea
+
 # Editor-based HTTP Client requests
 /httpRequests/
